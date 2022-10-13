@@ -1,4 +1,5 @@
 # Wallpapers
 
-This is my ever growing collection of wallpapers. I'm probably breaking a some
-license by having these on GitHub. I won't tell if you don't.
+This is my ever growing collection of wallpapers found on the internet. Most of
+these are from old 90's sites I found on the [Wiby](wiby.me) search engine. I'm
+probably breaking a some license by having these on GitHub.
